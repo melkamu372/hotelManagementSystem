@@ -1,0 +1,4 @@
+#intro .slider-holder ul li .offer-data {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/semi-transparent.png', sizingMethod='scale');
+}
