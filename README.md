@@ -12,5 +12,5 @@ there is simple steps to run the project
 * 3. Then export the database file from database file folder
 * 4. Then check it is successfully imported the file is
 * 5. Then after the database is created go to your server instalation path like this "C:\xampp\htdocs" and paste the folder you downloaded
-* 6. finally open your browser and write like this "http://localhost/hotel/home.php" 
+* 6. finally open your browser and write like this  "http://localhost/hotel/home.php" 
 
